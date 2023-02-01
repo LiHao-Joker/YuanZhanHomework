@@ -6,7 +6,7 @@ namespace YuanZhanHomework
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
